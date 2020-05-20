@@ -1,0 +1,1 @@
+lambda1 -> CW logs -> FH -> S3 (trigger)-> lambda2  -> make changes in S3
